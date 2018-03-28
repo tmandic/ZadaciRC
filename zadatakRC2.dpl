@@ -1,11 +1,11 @@
 <Qucs Schematic 0.0.19>
 <Properties>
-  <View=0,60,800,609,2.59374,269,60>
+  <View=0,168,800,647,2.59374,209,0>
   <Grid=10,10,0>
-  <DataSet=zadatakRC1.dat>
-  <DataDisplay=zadatakRC1.sch>
+  <DataSet=zadatakRC2.dat>
+  <DataDisplay=zadatakRC2.sch>
   <OpenDisplay=1>
-  <Script=zadatakRC1.m>
+  <Script=zadatakRC2.m>
   <RunScript=0>
   <showFrame=0>
   <FrameText0=Title>
@@ -20,14 +20,15 @@
 <Wires>
 </Wires>
 <Diagrams>
-  <Rect 250 400 240 160 3 #c0c0c0 1 00 1 0 0.002 0.01 1 -6 5 6 1 -1 1 1 315 0 225 "time [s]" "" "">
+  <Rect 240 410 240 160 3 #c0c0c0 1 00 1 0 0.002 0.01 1 -6 5 6 1 -1 1 1 315 0 225 "time [s]" "" "">
 	<"u_ul" #0000ff 2 3 0 0 0>
 	<"u_iz" #ff0000 2 3 0 0 0>
-	  <Mkr 0 -90 -159 3 0 0>
-	  <Mkr 0.001 -113 -50 3 0 0>
+	  <Mkr 0 -120 -99 3 0 0>
+	  <Mkr 0.001 -123 -40 3 0 0>
 	  <Mkr 0.001995 68 -150 3 0 0>
-	  <Mkr 0.003995 135 -54 3 0 0>
-	  <Mkr 0.005995 175 -144 3 0 0>
+	  <Mkr 0.00299 102 -97 3 0 0>
+	  <Mkr 0.003 262 -63 3 0 0>
+	  <Mkr 1e-06 -138 -157 3 0 0>
   </Rect>
 </Diagrams>
 <Paintings>
